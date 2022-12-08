@@ -22,7 +22,7 @@ const galleryMarkup = galleryItems
 gallery.innerHTML = galleryMarkup;
 
 /**
- * opens a modal window
+ * open/close modal window
  * @param {Object evt}
  * @returns -
  */
